@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "name": "first name ",
+      "_id": 1
+    },
+    {
+      "type": "400"
+    },
+    {
+      "display-name": "name",
+      "_id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "waed",
+      "_id": 1
+    },
+    {
+      "description": "teacher ",
+      "_id": 2
+    },
+    {
+      "name": "nusaiba",
+      "_id": 3
+    },
+    {
+      "description": "engineer ",
+      "_id": 4
+    }
+  ]
+}
